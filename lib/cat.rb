@@ -1,6 +1,5 @@
 class Cat
   # code goes here
-end
 
 attr_reader :name
   attr_accessor :mood
